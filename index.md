@@ -4,3 +4,5 @@
 #### h4 header
 ##### h5 header
 ###### h6 header
+
+![Image of Octodex](https://octodex.github.com/images/orderedlistocat.png)
